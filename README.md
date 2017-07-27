@@ -10,3 +10,4 @@ LeetCode
 |326| [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./easy/power-of-three/python/power_of_three.py) |Easy|
 |019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./medium/remove-nth-node-from-end-of-list/python/remove_nth_node_from_end_of_list.py) |Medium|
 |338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](./medium/counting-bits/python/counting_bits.py) |Medium|
+|001| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./easy/two-sum/python/two_sum.py) |Easy|
