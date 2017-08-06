@@ -7,6 +7,7 @@ LeetCode
 |002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./medium/add-two-numbers/python/add_two_numbers.py) |Medium|
 |003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./medium/longest-substring-without-repeating-characters/python/longest_substring_without_repeating_characters.py) |Medium|
 |004| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./hard/median-of-two-sorted-arrays/python/median_of_two_sorted_arrays.py) |Hard|
+|005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./medium/longest-palindromic-substring/python/longest_palindromic_substring.py) |Medium|
 |019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./medium/remove-nth-node-from-end-of-list/python/remove_nth_node_from_end_of_list.py) |Medium|
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./easy/linked-list-cycle/python/linked_list_cycle.py) |Easy|
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./medium/linked-list-cycle-ii/python/linked_list_cycle_ii.py)|Medium|
