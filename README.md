@@ -11,6 +11,8 @@ LeetCode
 |006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./medium/zigzag-conversion/python/zigzag_conversion.py) |Medium| |
 |007| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./easy/reverse-integer/python/reverse_integer.py) |Easy| |
 |008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./medium/string-to-integer-atoi/python/string_to_integer_atoi.py) |Medium| |
+|009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./easy/palindrome-number/python/palindrome_number.py) |Easy| | 
+|010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](./hard/regular-expression-matching/python/regular_expression_matching.py) |Hard|Dynamic Programming|
 |019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./medium/remove-nth-node-from-end-of-list/python/remove_nth_node_from_end_of_list.py) |Medium| |
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./easy/linked-list-cycle/python/linked_list_cycle.py) |Easy| |
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./medium/linked-list-cycle-ii/python/linked_list_cycle_ii.py)|Medium| |
