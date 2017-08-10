@@ -14,6 +14,7 @@ LeetCode
 |009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./easy/palindrome-number/python/palindrome_number.py) |Easy| | 
 |010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](./hard/regular-expression-matching/python/regular_expression_matching.py) |Hard|Dynamic Programming|
 |019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./medium/remove-nth-node-from-end-of-list/python/remove_nth_node_from_end_of_list.py) |Medium| |
+|121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./easy/best-time-to-buy-and-sell-stock/best_time_to_buy_and_sell_stock.py) |Easy|Dynamic Programming|
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./easy/linked-list-cycle/python/linked_list_cycle.py) |Easy| |
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./medium/linked-list-cycle-ii/python/linked_list_cycle_ii.py)|Medium| |
 |216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./medium/combination-sum-iii/python/combination_sum_iii.py) |Medium| |
